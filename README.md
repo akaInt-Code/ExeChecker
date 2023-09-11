@@ -20,7 +20,7 @@ Configuración de la interfaz de usuario: El programa utiliza el módulo tkinter
 Función iniciar y ejecución de la GUI: La función iniciar se utiliza para cargar los resultados iniciales al iniciar la aplicación. Luego, se ejecuta la interfaz gráfica utilizando ventana.mainloop().
 
 # Modulos/Librerias usadas
-**psutil**
-**tkinter**
-**os**
-**datetime**
+**1.- psutil**
+**2.- tkinter**
+**3.- os**
+**4.- datetime**
